@@ -38,7 +38,7 @@ Sources are included if and only if:
 
 1. They are confirmed or strong black hole X-ray binary transient candidates.
 2. Their jet inclination angle has been constrained through modelling of the proper motion of resolved discrete (ballistic) jet ejecta.
-3. Type-C QPOs have been detected during the rising hard state.
+3. Type-C QPOs have been detected during the rising hard state by a hard X-ray timing instrument covering the 2-25 keV band (RXTE or HXMT)
 
 ## Data provenance
 
