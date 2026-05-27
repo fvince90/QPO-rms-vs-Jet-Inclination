@@ -1,6 +1,6 @@
-# Type-C QPO Fractional RMS Catalog for Black Hole X-ray Binary Transients
+# Type-C QPO Fractional RMS vs jet inclination Black Hole X-ray Binary Transients
 
-A living catalog of type-C quasi-periodic oscillation (QPO) fractional rms amplitudes measured in the 2–25 keV band during the rising hard state of black hole X-ray binary transients. The sample is restricted to systems with jet inclination angles constrained from resolved ballistic jet proper motions. 
+A catalog of type-C quasi-periodic oscillation (QPO) fractional rms amplitudes measured in the 2–25 keV band during the rising phase of black hole X-ray binary transients. The sample is restricted to systems with jet inclination angles constrained from resolved ballistic jet proper motions. The catalog is updated as new data from sources with reliable jet inclination constraints become available.
 
 **Latest update:** 27 May 2026
 
